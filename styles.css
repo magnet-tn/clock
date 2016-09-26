@@ -1,0 +1,19 @@
+.morning {
+    background-color: #865f86;
+    color: #025;
+}
+
+.afternoon {
+    background-color: #2c87c8;
+    color: #222;
+}
+
+.evening {
+    background-color: #c7b02f;
+    color: #fff;
+}
+
+.night {
+    background-color: #180629;
+    color: #999;
+}
