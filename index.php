@@ -9,6 +9,7 @@ ini_set('display_errors', 1); # Display errors on page (instead of a log file)
     <meta charset="UTF-8">
 
     <link rel='stylesheet' href='styles.css' type='text/css'>
+    <link rel="icon" type="image/png" href="TroubleU-icon.png">
 
     <title>Clock</title>
     <?php
