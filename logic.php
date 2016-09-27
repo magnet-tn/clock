@@ -1,11 +1,11 @@
 <?php
 # logic.php
 
-//date_default_timezone_set('America/New_York');
-//echo 'now in Boston:';
+date_default_timezone_set('America/New_York');
+echo 'now in Boston:';
 
-date_default_timezone_set('Europe/Sarajevo');
-echo 'now in Sarajevo:';
+//date_default_timezone_set('Europe/Sarajevo');
+//echo 'now in Sarajevo:';
 
 //date_default_timezone_set('Asia/Hong_Kong');
 //echo 'now in Hong Kong:';
